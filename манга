@@ -9,7 +9,7 @@
       "title": "Ты слегка...",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/QsXGDpw/"
+        "<group name>": "https://imgur.com/gallery/QsXGDpw"
       },
       "last_updated": "1616368746"
     },
@@ -17,9 +17,8 @@
       "title": "За тобой забавно наблюдать",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/rnsJK2p/"
+        "<group name>": "https://imgur.com/gallery/rnsJK2p"
       },
       "last_updated": "1616368746"
     },
   }
-}
