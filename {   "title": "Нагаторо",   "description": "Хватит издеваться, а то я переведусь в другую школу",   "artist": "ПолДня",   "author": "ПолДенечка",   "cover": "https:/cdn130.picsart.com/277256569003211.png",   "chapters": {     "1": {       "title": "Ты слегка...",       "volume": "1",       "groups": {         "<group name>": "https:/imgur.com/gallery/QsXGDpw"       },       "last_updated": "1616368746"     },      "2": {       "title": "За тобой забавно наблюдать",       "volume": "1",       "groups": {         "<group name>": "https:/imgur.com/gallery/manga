@@ -9,7 +9,7 @@
       "title": "Ты слегка...",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/jLmWxIc/"
+        "1": "https://drive.google.com/drive/folders/1Ca9lKddvdUCTkR8k8Ha0Plqc3qgW0q1Z?usp=sharing"
       },
       "last_updated": "1616368746"
     },
@@ -17,7 +17,7 @@
       "title": "За тобой забавно наблюдать",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/jLmWxIc/"
+        "2": "https://drive.google.com/drive/folders/1Ca9lKddvdUCTkR8k8Ha0Plqc3qgW0q1Z?usp=sharing"
       },
       "last_updated": "1616368746"
     }
