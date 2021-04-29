@@ -3,13 +3,13 @@
   "description": "Хватит издеваться, а то я переведусь в другую школу",
   "artist": "ПолДня",
   "author": "ПолДенечка",
-  "cover": "https://cdn130.picsart.com/277256569003211.png",
+  "cover": "https://i.imgur.com/NELpA2R.jpeg",
   "chapters": {
     "1": {
       "title": "Ты слегка...",
       "volume": "1",
       "groups": {
-        "<group name>": "https://imgur.com/gallery/QsXGDpw"
+        "<group name>": "/proxy/api/imgur/chapter/jLmWxIc/"
       },
       "last_updated": "1616368746"
     },
@@ -17,7 +17,7 @@
       "title": "За тобой забавно наблюдать",
       "volume": "1",
       "groups": {
-        "<group name>": "https://imgur.com/gallery/rnsJK2p"
+        "<group name>": "/proxy/api/imgur/chapter/jLmWxIc/"
       },
       "last_updated": "1616368746"
     }
