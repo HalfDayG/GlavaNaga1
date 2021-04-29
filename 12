@@ -1,1 +1,5 @@
-{"title":"Не издевайся, Нагаторо-сан","description":"Манга","artist":"День","author":"Ночь","cover":"https://cdn130.picsart.com/277256569003211.png","chapters":{"1": {"title": "Ты слегка...","volume": "1","groups": {"new": "/proxy/api/imgur/chapter/rnsJK2p/"},"last_updated": "2507021452800"},"2": {"title": "За тобой забавно наблюдать","volume": "2","groups": {"new": "/proxy/api/imgur/chapter/QsXGDpw/"},"last_updated": "2507021452800"}}}
+{"title":"Не издевайся, Нагаторо-сан","description":"Манга","artist":"День","author":"Ночь","cover":"https://cdn130.picsart.com/277256569003211.png","chapters":{
+"1-1": {"title": "Ты слегка...","volume": "1-1","groups": {"new": "/proxy/api/imgur/chapter/rnsJK2p/"},"last_updated": "2507021452800"},
+"1-2": {"title": "За тобой забавно наблюдать","volume": "1-2","groups": {"new": "/proxy/api/imgur/chapter/QsXGDpw/"},"last_updated": "2507021452800"}
+
+}}
