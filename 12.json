@@ -15,10 +15,12 @@
     },
     "2": {
       "title": "За тобой забавно наблюдать",
-      "volume": "2",
+      "volume": "1",
       "last_updated": "2507021452800",
       "groups": {
-        "new": "/proxy/api/imgur/chapter/QsXGDpw/"
+        "new": [
+          "/proxy/api/imgur/chapter/QsXGDpw/"
+        ]
       }
     },
     "3": {
