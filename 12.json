@@ -225,6 +225,39 @@
         ]
       }
     },
+        "8.1": {
+      "title": "Сэмпай, кто дал тебе шоколад?...",
+      "volume": "1",
+      "last_updated": "1520524800",
+      "groups": {
+        "Бонус ①": [
+          "https://drive.google.com/uc?export=view&id=19UcYT4s1-JIJsejFE2Ta9npN8SIjS8Zp",
+          "https://drive.google.com/uc?export=view&id=19W7YeUqFoRCjtpLQPJpWeI0o0kiOA-60",
+          "https://drive.google.com/uc?export=view&id=19WYqoR5Pi5-80Y4k5tTAX6uwGfX-fseg",
+          "https://drive.google.com/uc?export=view&id=19ZX7j4PQ12ZHUsOeM-HWefak4cZ4uwcK"
+        ]
+      }
+    },
+    "8.2": {
+      "title": "Неужели я забила голову сэмпая всякими пошлостями~?♡",
+      "volume": "1",
+      "last_updated": "1520524800",
+      "groups": {
+        "Бонус ②": [
+          "https://drive.google.com/uc?export=view&id=19oytr9tUWVYCQO7_I1R9maq8J36NbURe",
+          "https://drive.google.com/uc?export=view&id=19q8MVRyfNh_EFy-iQsxxZlN085nocH03",
+          "https://drive.google.com/uc?export=view&id=19tCYAS09yp1_BtNfQ6iQBFM-Kx9Ky2RI",
+          "https://drive.google.com/uc?export=view&id=19kHaXPXnCyd3mZOTVYjATyAwdiWCK3DG",
+          "https://drive.google.com/uc?export=view&id=19hQJk6Iva6qLcAAFwxhStfod9mgAMRjA",
+          "https://drive.google.com/uc?export=view&id=19kQHUfuwSquKtWm-FIs4yanPZMo7osnn",
+          "https://drive.google.com/uc?export=view&id=19apfaud1Xmb29JDk4gKoTc4bjxslPKy6",
+          "https://drive.google.com/uc?export=view&id=19sYi_iPtgszK7uqZPzlDfcaDSS3bUyPA",
+          "https://drive.google.com/uc?export=view&id=1KTCejDs4C6KrObilZTVIv8oQAyJfAY0t",
+          "https://drive.google.com/uc?export=view&id=1KT8dVTulp0sZ02rrxm0u1CWVKGub5rSg",
+          "https://drive.google.com/uc?export=view&id=1KSpqswgpbQPQ875FtYaodEylEIbVr3_Y"
+        ]
+      }
+    },
     "9": {
       "title": "Сэмпай, ты такой добродушный~♡",
       "volume": "2",
@@ -3767,39 +3800,6 @@
           "https://drive.google.com/uc?export=view&id=1o5Arwnuy4jn7fbphNvwpXnQxMaYm5GNa",
           "https://drive.google.com/uc?export=view&id=1o3IYJ-tlxxspWCe6CWro7fmBSRzvpqCN",
           "https://drive.google.com/uc?export=view&id=1o-yJGI298egRMYMWGvmDScsUIQTGTaH_"
-        ]
-      }
-    },
-    "8.1": {
-      "title": "Сэмпай, кто дал тебе шоколад?...",
-      "volume": "1",
-      "last_updated": "1520524800",
-      "groups": {
-        "Бонус ①": [
-          "https://drive.google.com/uc?export=view&id=19UcYT4s1-JIJsejFE2Ta9npN8SIjS8Zp",
-          "https://drive.google.com/uc?export=view&id=19W7YeUqFoRCjtpLQPJpWeI0o0kiOA-60",
-          "https://drive.google.com/uc?export=view&id=19WYqoR5Pi5-80Y4k5tTAX6uwGfX-fseg",
-          "https://drive.google.com/uc?export=view&id=19ZX7j4PQ12ZHUsOeM-HWefak4cZ4uwcK"
-        ]
-      }
-    },
-    "8.2": {
-      "title": "Неужели я забила голову сэмпая всякими пошлостями~?♡",
-      "volume": "1",
-      "last_updated": "1520524800",
-      "groups": {
-        "Бонус ②": [
-          "https://drive.google.com/uc?export=view&id=19oytr9tUWVYCQO7_I1R9maq8J36NbURe",
-          "https://drive.google.com/uc?export=view&id=19q8MVRyfNh_EFy-iQsxxZlN085nocH03",
-          "https://drive.google.com/uc?export=view&id=19tCYAS09yp1_BtNfQ6iQBFM-Kx9Ky2RI",
-          "https://drive.google.com/uc?export=view&id=19kHaXPXnCyd3mZOTVYjATyAwdiWCK3DG",
-          "https://drive.google.com/uc?export=view&id=19hQJk6Iva6qLcAAFwxhStfod9mgAMRjA",
-          "https://drive.google.com/uc?export=view&id=19kQHUfuwSquKtWm-FIs4yanPZMo7osnn",
-          "https://drive.google.com/uc?export=view&id=19apfaud1Xmb29JDk4gKoTc4bjxslPKy6",
-          "https://drive.google.com/uc?export=view&id=19sYi_iPtgszK7uqZPzlDfcaDSS3bUyPA",
-          "https://drive.google.com/uc?export=view&id=1KTCejDs4C6KrObilZTVIv8oQAyJfAY0t",
-          "https://drive.google.com/uc?export=view&id=1KT8dVTulp0sZ02rrxm0u1CWVKGub5rSg",
-          "https://drive.google.com/uc?export=view&id=1KSpqswgpbQPQ875FtYaodEylEIbVr3_Y"
         ]
       }
     }
